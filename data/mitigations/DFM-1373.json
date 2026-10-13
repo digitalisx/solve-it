@@ -1,0 +1,6 @@
+{
+    "id": "DFM-1373",
+    "name": "Create a dedicated password dictionary for the case, combining generic and contextual candidates",
+    "technique": "DFT-1211",
+    "references": []
+}

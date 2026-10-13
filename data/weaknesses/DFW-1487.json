@@ -1,0 +1,11 @@
+{
+    "id": "DFW-1487",
+    "name": "Limited attempts are wasted on candidates that cannot be valid because the dictionary does not account for the known password constraints of the target",
+    "categories": [
+        "ASTM_INCOMP"
+    ],
+    "mitigations": [
+        "DFM-1370"
+    ],
+    "references": []
+}

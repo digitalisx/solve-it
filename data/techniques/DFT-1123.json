@@ -3,7 +3,7 @@
     "name": "Keyword search (case-specific wordlists)",
     "description": "Searching for case-specific keywords, e.g. people's names, places etc.",
     "synonyms": [],
-    "details": "This complements case-type wordlists (T1122) using words typical to specific offenses.",
+    "details": "This complements case-type wordlists (T1122) using words typical to specific offenses. The case-specific keyword list itself is created using DFT-1210.",
     "subtechniques": [],
     "examples": [],
     "weaknesses": [

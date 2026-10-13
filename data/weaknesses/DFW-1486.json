@@ -1,0 +1,12 @@
+{
+    "id": "DFW-1486",
+    "name": "Password dictionary is too large to be processed in the time available, so the correct password is not reached",
+    "categories": [
+        "ASTM_INCOMP"
+    ],
+    "mitigations": [
+        "DFM-1092",
+        "DFM-1369"
+    ],
+    "references": []
+}
