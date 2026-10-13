@@ -29,7 +29,7 @@
         },
         {
             "DFCite_id": "DFCite-1077",
-            "relevance_summary_280": "Analyzes the guessability of over 3.9 billion real-world accounts to assess how viable password cracking is in digital forensic investigations."
+            "relevance_summary_280": "Breaks passwords from over 3.9 billion real-world accounts into fragments and classifies them by semantic meaning, showing the role of contextual information in password choice, which informs which candidates to include in a password dictionary."
         },
         {
             "DFCite_id": "DFCite-1094",

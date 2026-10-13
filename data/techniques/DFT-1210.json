@@ -20,7 +20,7 @@
     "references": [
         {
             "DFCite_id": "DFCite-1074",
-            "relevance_summary_280": "Examines how the effectiveness of keyword lists used in digital forensics can be measured, which informs how case-specific keyword lists are compiled and evaluated."
+            "relevance_summary_280": "Measures the effectiveness of case-type wordlists when used to supplement case-specific keywords, which informs how a case-specific keyword list relates to and is complemented by case-type lists."
         }
     ]
 }
